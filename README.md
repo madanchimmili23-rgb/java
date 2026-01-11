@@ -1,4 +1,4 @@
-hea
+head
 
 
 Creating readme 
